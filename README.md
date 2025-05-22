@@ -97,8 +97,9 @@ gr.close_all()
 
 ### OUTPUT:
 
+![image](https://github.com/user-attachments/assets/9dbbf6a6-bce5-48f6-8ce8-8691a45d3385)
 
-![Uploading image.png…]()
+
 
 
 ### RESULT:
